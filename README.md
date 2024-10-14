@@ -9,9 +9,9 @@ Hi, and thanks for stopping by. This is a project I did on the Shoshone people. 
 * Explore Shoshone Culture
 * Runs on Windows 11 and most likely 10
 
-[Play on Web (Doesn't Work as of Now)](https://wackycantcode.github.io/shoshonemuseum/Rel1/index.html)
+[Play Shoshone Museum 1.0 on Web (Doesn't Work as of Now)](https://wackycantcode.github.io/shoshonemuseum/Rel1/index.html)
 
 
-[Download ZIP for Windows](https://github.com/wackycantcode/shoshonemuseum/releases/download/Release1.5/Rel1.5PC.zip)
+[Download Shoshone Museum 1.5 ZIP for Windows](https://github.com/wackycantcode/shoshonemuseum/releases/download/Release1.5/Rel1.5PC.zip)
 
 
